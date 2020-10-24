@@ -1,8 +1,12 @@
 # CharacterBERT
 
+
+
 [paper]: https://arxiv.org/abs/2010.10392
 
 This is the repository of the paper "[CharacterBERT: Reconciling ELMo and BERT for Word-LevelOpen-Vocabulary Representations From Characters][paper]" that is soon to appear at COLING 2020.
+
+
 
 ## Table of contents
 
